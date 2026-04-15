@@ -1,4 +1,4 @@
-# 📦 Inventario de Productos — API REST con PHP
+# Inventario de Productos — API REST con PHP
 
 **Universidad Don Bosco**  
 Facultad de Ingeniería – Escuela de Computación  
@@ -6,7 +6,7 @@ DSS404 G03T Ciclo 01-2026 – Abril 2026
 
 ---
 
-## 👥 Integrantes
+## Integrantes
 
 - Lopez Velasquez Abel Stuardo — LV2317282  
 - Sergio Salvador Sánchez Monti — SM1812653  
@@ -16,13 +16,13 @@ DSS404 G03T Ciclo 01-2026 – Abril 2026
 
 ---
 
-## 📄 Descripción
+## Descripción
 
 Investigación aplicada sobre el diseño, desarrollo y consumo de APIs REST utilizando **PHP y JSON**, con una interfaz **HTML + JavaScript** que consume la API mediante **Fetch**.
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```bash
 inventario/

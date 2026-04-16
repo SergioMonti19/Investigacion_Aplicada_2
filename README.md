@@ -19,15 +19,3 @@ DSS404 G03T Ciclo 01-2026 – Abril 2026
 ## Descripción
 
 Investigación aplicada sobre el diseño, desarrollo y consumo de APIs REST utilizando **PHP y JSON**, con una interfaz **HTML + JavaScript** que consume la API mediante **Fetch**.
-
----
-
-## Estructura del proyecto
-
-```bash
-inventario/
-├── api.php        # API REST principal (GET, POST, PUT, DELETE)
-├── config.php     # Conexión a la base de datos
-├── database.sql   # Script para crear la BD
-├── index.html     # Interfaz de usuario (Frontend)
-└── app.js         # Lógica Fetch para consumir la API

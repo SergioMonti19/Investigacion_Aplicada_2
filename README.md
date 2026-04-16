@@ -1,7 +1,5 @@
 # Investigación Aplicada 2 — Desarrollo y Análisis de Proyecto
 
-<div align="center">
-
 **Universidad Don Bosco**  
 Facultad de Ingeniería – Escuela de Computación  
 DSS404 G03T Ciclo 01-2026 – Abril 2026  

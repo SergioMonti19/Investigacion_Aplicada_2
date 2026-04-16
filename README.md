@@ -24,7 +24,7 @@ Investigación aplicada sobre el diseño, desarrollo y consumo de APIs REST util
 
 | Recurso | Link |
 | :--- | :--- |
-| Documento | https://drive.google.com/drive/folders/1Sb_AVfXVbeKchZh7C6gvUfFEFTam0Cr_ |
+| Documento | https://drive.google.com/drive/folders/1Sb_AVfXVbeKchZh7C6gvUfFEFTam0Cr_?usp=drive_link |
 | Video | https://www.youtube.com/watch?v=xkL6n0yJ2-0 |
 
 ---

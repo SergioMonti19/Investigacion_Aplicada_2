@@ -19,3 +19,16 @@ DSS404 G03T Ciclo 01-2026 – Abril 2026
 ## Descripción
 
 Investigación aplicada sobre el diseño, desarrollo y consumo de APIs REST utilizando **PHP y JSON**, con una interfaz **HTML + JavaScript** que consume la API mediante **Fetch**.
+
+## Enlaces
+
+| Recurso | Link |
+| :--- | :--- |
+| Documento | (https://drive.google.com/drive/folders/1Sb_AVfXVbeKchZh7C6gvUfFEFTam0Cr_) |
+| Video | (https://www.youtube.com/watch?v=xkL6n0yJ2-0) |
+
+---
+
+<div align="center">
+  <sub>Investigación Aplicada 2 · Ciclo 01-2026</sub>
+</div>

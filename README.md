@@ -1,4 +1,6 @@
-# Inventario de Productos — API REST con PHP
+# Investigación Aplicada 2 — Desarrollo y Análisis de Proyecto
+
+<div align="center">
 
 **Universidad Don Bosco**  
 Facultad de Ingeniería – Escuela de Computación  
@@ -24,8 +26,8 @@ Investigación aplicada sobre el diseño, desarrollo y consumo de APIs REST util
 
 | Recurso | Link |
 | :--- | :--- |
-| Documento | (https://drive.google.com/drive/folders/1Sb_AVfXVbeKchZh7C6gvUfFEFTam0Cr_) |
-| Video | (https://www.youtube.com/watch?v=xkL6n0yJ2-0) |
+| Documento | https://drive.google.com/drive/folders/1Sb_AVfXVbeKchZh7C6gvUfFEFTam0Cr_ |
+| Video | https://www.youtube.com/watch?v=xkL6n0yJ2-0 |
 
 ---
 
